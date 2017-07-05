@@ -1,4 +1,4 @@
-This is a university practice that asks us if we can make a PAM algorithm using only string data,
+This is a university practice that asks us if we can make a Partition Arround Medoids algorithm using only string data,
 
 no integers or any type of standardization.
 
