@@ -1,6 +1,6 @@
 # README
 
-This is a university practice that asks us if we can make a Partition Arround Medoids algorithm using only string data,
+This is a university practice that asks us if we can make a Partition Around Medoids algorithm using only string data,
 no integers or any type of standardization.
 
 You can find the data used in this algorithm in the machine learning repository in this [link](http://archive.ics.uci.edu/ml/datasets/Adult)
